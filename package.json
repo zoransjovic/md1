@@ -1,0 +1,12 @@
+{
+  "name": "md1",
+  "version": "1.0.0",
+  "description": "Format duration",
+  "main": "md1.js",
+  "scripts": {
+    "start": "node md1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zoranJ",
+  "license": "ISC"
+}
